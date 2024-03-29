@@ -31,9 +31,8 @@
 - :computer: I have a strong foundation in programming and a deep curiosity for exploring new technologies.
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
+- :man_technologist: Former Research Developer Intern at ClinicalAIassitance 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 ## 🔧 Skills Showcase
