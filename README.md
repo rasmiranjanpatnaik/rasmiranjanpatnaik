@@ -176,5 +176,5 @@ Email: [![Email Badge](https://img.shields.io/badge/-Rasmiranjanpatnaik-red?styl
 
 WhatsApp: [![WhatsApp Badge](https://img.shields.io/badge/-whatsapp-green?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/8144102018)](https://wa.me/8144102018)
 
-Portfolio: [![Portfolio Badge](https://img.shields.io/badge/-RasmiRanjanPatnaik?style=flat-square&logo=appveyor&logoColor=white&link=https://rasmiranjanportifolio.netlify.app/)](https://rasmiranjanportifolio.netlify.app/)
+Portfolio: [![Portfolio Badge](https://img.shields.io/badge/-RasmiRanjanPatnaik?style=flat-square&logo=appveyor&logoColor=white&link=https://rasminext-portfolio.vercel.app/)](https://rasminext-portfolio.vercel.app/)
 Feel free to reach out to me or just to say hello! 😊
