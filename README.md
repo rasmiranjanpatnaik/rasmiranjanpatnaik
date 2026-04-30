@@ -1,46 +1,16 @@
 ---
 
-## 🚀 Featured Project — ReffConnect
+## 🔗 ReffConnect — Currently Shipping
 
 <div align="center">
 
-> **Referral-powered professional networking platform** — currently in Beta 🟢
-
-</div>
-
 ```
- ● MVP Live · React 18 + TypeScript · Node.js · Supabase · PostgreSQL
+  ●  Referral-powered professional networking platform  ·  Beta Live
+  ┌──────────────┐     ┌─────────────────┐     ┌──────────────────────┐
+  │  React + TS  │────▶│  Node.js + Expr  │────▶│  Supabase · PG · RLS │
+  └──────────────┘     └─────────────────┘     └──────────────────────┘
+                                                          ↺  Realtime WS
 ```
-
-### What is ReffConnect?
-
-ReffConnect is a full-stack platform where professionals **connect, refer, and grow** together.
-Users build trusted referral chains, recommend peers for real opportunities, and track their
-network's reach — all powered by real-time data, row-level security, and a type-safe API.
-
-### ✨ Core Features
-
-| Feature | Description |
-|---|---|
-| 🔗 **Referral Chains** | Multi-hop referral networks with trust scoring between users |
-| ⚡ **Real-time Updates** | Live notifications via Supabase Realtime WebSocket subscriptions |
-| 🛡️ **Auth & RLS** | Supabase Auth with JWT + Postgres Row-Level Security policies |
-| 📊 **Network Analytics** | Track referral performance, connection growth, and activity history |
-| 🔍 **Smart Discovery** | Find and filter professionals by skill, role, or industry |
-| 🌐 **Typed REST API** | Node.js + Express backend with full TypeScript + Zod validation |
-
-### 🏗️ Architecture
-
-```
-┌─────────────────┐     ┌──────────────────┐     ┌──────────────────────┐
-│  React 18 + TS  │────▶│  Node.js + Expr  │────▶│  Supabase (PG + RLS) │
-│  Tailwind CSS   │     │  REST API + Zod  │     │  Auth · Realtime     │
-└─────────────────┘     └──────────────────┘     └──────────────────────┘
-        ▲                                                    │
-        └──────────── Realtime WebSocket ◀──────────────────┘
-```
-
-### 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -51,4 +21,34 @@ network's reach — all powered by real-time data, row-level security, and a typ
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
-> 🟢 **Status:** Beta · Actively developed · Open to contributors
+</div>
+
+> A platform where professionals **refer, connect & grow** through trusted networks —
+> not cold DMs. I'm building this end-to-end as **Full-Stack Dev + Product Owner**.
+
+### 🧠 What I'm Building
+
+- **Multi-hop referral chains** — graph-based connection engine with per-node reputation scoring
+- **Real-time notifications** — Supabase Realtime WebSocket subscriptions across all clients
+- **Auth + Row-Level Security** — Supabase Auth, JWT middleware, and Postgres RLS policies
+- **Analytics dashboard** — referral reach, conversion tracking, and network growth metrics
+- **Smart discovery** — search and filter professionals by role, skill, or industry
+
+### 🗺️ Sprint Roadmap
+
+| Sprint | Feature | Status |
+|--------|---------|--------|
+| 01 | Auth system + RLS policies (Supabase Auth, JWT guards) | ✅ Shipped |
+| 02 | Referral graph engine (multi-hop chains, trust scoring) | ✅ Shipped |
+| 03 | Realtime notification layer (WebSocket subscriptions) | 🔵 In Dev |
+| 04 | Analytics dashboard (reach, conversion, growth) | 🔵 In Dev |
+| 05 | Public launch — beta signups, invite flow, landing page | 🔲 Planned |
+
+### 🎯 My Role on This Project
+
+`Full-Stack Developer` · `Product Owner` · `System Designer` · `API Architect`
+
+> Owning the full lifecycle — from DB schema design and API contracts to UI components
+> and sprint planning. Shipping iteratively, documenting as I go.
+
+---
